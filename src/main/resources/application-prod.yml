@@ -1,0 +1,9 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /gril
+gril:
+  id: 1
+  name: 王美凤
+  cupSize: F
+  age: 18
